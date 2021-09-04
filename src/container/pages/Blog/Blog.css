@@ -1,0 +1,25 @@
+.page-blog {
+  margin: 5px;
+}
+
+.title {
+  font-size: 40px;
+  text-align: center;
+}
+
+.list-blog {
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card-blog {
+  width: 190px;
+  display: inline-block;
+}
+
+.title-blog {
+  cursor: pointer;
+  font-weight: bold;
+}
